@@ -1,0 +1,11 @@
+{
+	"dist/.vite/manifest.json": {
+		"src": "dist/.vite/manifest.json"
+	},
+	"index.html": {
+		"name": "index",
+		"src": "index.html",
+		"isEntry": true
+	},
+	"base": "/newtattoo/"
+}
